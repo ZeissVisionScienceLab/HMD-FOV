@@ -1,8 +1,8 @@
 
 #logo: /figures/cam_procedure.png
 show_downloads: true
-remote_theme: fongandrew/hydeout
-theme:
+#remote_theme: fongandrew/hydeout
+theme: jekyll-theme-minimal
 
 
 
@@ -22,7 +22,7 @@ author:
   name:           'ZVSL'
   url:            
 
-paginate:         2
+#paginate:         2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
