@@ -1,6 +1,6 @@
 title: HMD FoV
 logo: /figures/cam_procedure.png
-description: Test page.
+description: Database for FOV measurements of different HMDs and description of measurement techniques.
 show_downloads: true
 google_analytics:
 remote_theme: fongandrew/hydeout
