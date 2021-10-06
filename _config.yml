@@ -3,4 +3,4 @@ logo: /figures/cam_procedure.png
 description: Test page.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: fongandrew/hydeout
