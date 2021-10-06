@@ -4,9 +4,7 @@ show_downloads: true
 remote_theme: fongandrew/hydeout
 theme:
 
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+
 
 # Setup
 title:            HMD FoV
@@ -27,11 +25,6 @@ author:
 paginate:         2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
-
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
 
 # Sidebar link settings
 sidebar_home_link:  false
