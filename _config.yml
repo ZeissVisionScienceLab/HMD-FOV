@@ -1,7 +1,41 @@
-title: HMD FoV
+
 logo: /figures/cam_procedure.png
-description: Database for FOV measurements of different HMDs and description of measurement techniques.
 show_downloads: true
-google_analytics:
 remote_theme: fongandrew/hydeout
 theme:
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            HMD FoV
+tagline:          ''
+description:      'Database for FOV measurements of different HMDs and description of measurement techniques.'
+url:              
+baseurl:          '/database'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+author:
+  name:           'ZVSL'
+  url:            
+
+paginate:         2
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
