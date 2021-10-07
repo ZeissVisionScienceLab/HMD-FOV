@@ -1,3 +1,9 @@
+---
+layout: default
+title: Welcome
+nav_order: 1
+nav_exclude: false
+---
 # [Welcome](https://zeissvisionsciencelab.github.io/HMD-FOV/)
 Lorem ipsum
 
@@ -12,11 +18,11 @@ Lorem ipsum
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:12px;overflow:hidden;padding:8px 2px;
   word-break:normal;}
 .tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:12px;font-weight:normal;overflow:hidden;
+  padding:8px 2px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
