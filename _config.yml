@@ -41,18 +41,6 @@ titles_from_headings:
   strip_title: true
   collections: false
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-      type: pages
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "" # empty string for all files
-      type: posts
-    values:
-      layout: "post"
-      categories: "news"
-      is_post: true
+collections:
+  docs:
+    output: true
