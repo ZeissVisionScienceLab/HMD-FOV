@@ -10,20 +10,25 @@ nav_exclude: false
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <model-viewer src="https://github.com/ZeissVisionScienceLab/HMD-FOV/blob/main/figures/eyeReliefTool.glb?raw=true" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="0" shadow-softness="0.32" exposure="0.42" camera-orbit="1.477deg 92.24deg auto" auto-rotate>
-
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
-    <button slot="ar-button" id="ar-button">
+    <!-- <button slot="ar-button" id="ar-button">
         View in your space
     </button>
     <div id="ar-prompt">
         <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
-    </div>
+    </div> -->
 </model-viewer>
 
 <span class="fs-8">
-[Download](https://github.com/ZeissVisionScienceLab/HMD-FOV/blob/main/figures/eyeReliefTool.glb?raw=true){: .btn }
+    <a href="https://github.com/ZeissVisionScienceLab/HMD-FOV/blob/main/figures/eyeReliefTool.glb?raw=true" class="button">Download</a>
 </span>
+
+<model-viewer src="figures/eyeReliefTool.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="0" shadow-softness="0.32" exposure="0.42" camera-orbit="1.477deg 92.24deg auto" auto-rotate>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
 
 <h3> > <a href="https://zeissvisionsciencelab.github.io/HMD-FOV/">Back to main page</a></h3>
