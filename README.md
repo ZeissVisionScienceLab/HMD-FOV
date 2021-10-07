@@ -8,8 +8,8 @@ permalink: /
 ---
 # [Welcome](https://zeissvisionsciencelab.github.io/HMD-FOV/)
 {: .fs-9 }
-
-Page under construction. {: .fs-6 .fw-300 }
+Page under construction. 
+{: .fs-6 .fw-300 }
 ## Cite as:
 ```
 Sauer....
