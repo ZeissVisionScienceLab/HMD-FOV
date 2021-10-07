@@ -1,6 +1,5 @@
 ### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
 ## Luminance measurements
-![Luminance values Figure](https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/figures/luminancefig.svg?raw=true)
 
 ### Table
 Results of "Value" in HSV Color space for the different stimulus luminance in the Goldmann. "o.o.r." stands for out of range.
@@ -91,3 +90,5 @@ Results of "Value" in HSV Color space for the different stimulus luminance in th
   </tr>
 </tbody>
 </table>
+
+![Luminance values Figure](https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/figures/luminancefig.svg?raw=true)

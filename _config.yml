@@ -12,8 +12,8 @@ description: 'Database for FOV measurements of different HMDs and description of
 permalink:  /:title.html
 pygments: false
 markdown: kramdown
-logo: /figures/cam_procedure.png
-show_downloads: true
+# logo: /figures/cam_procedure.png
+# show_downloads: true
 #remote_theme: fongandrew/hydeout
 theme: jekyll-theme-minimal
 
