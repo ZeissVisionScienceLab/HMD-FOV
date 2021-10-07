@@ -36,5 +36,7 @@ kramdown:
   use_coderay: false
   # input: GFM
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 
 

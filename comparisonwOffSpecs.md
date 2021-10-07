@@ -1,4 +1,4 @@
-### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
+## Comparison with official specifications
 
 ## FoV Table
 
@@ -10,3 +10,5 @@ HMD | Bino. FoV | Official Specifications | Rendered
 *Pico Neo 2* |86 x 88°|101°|101 x 101° 
 *Oculus Rift DK2* |94 x 101°|100°|93 x 106° 
 *Fove 0* |86 x 92°|Up to 100°|88 x 95°
+
+### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)

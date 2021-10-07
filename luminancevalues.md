@@ -1,4 +1,3 @@
-### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
 ## Luminance measurements
 
 ### Table
@@ -92,3 +91,5 @@ Results of "Value" in HSV Color space for the different stimulus luminance in th
 </table>
 
 ![Luminance values Figure](https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/figures/luminancefig.svg?raw=true)
+
+### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
