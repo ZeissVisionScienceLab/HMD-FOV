@@ -1,4 +1,4 @@
-# [Welcome](welcome)
+# [Welcome](README)
 Lorem ipsum
 
 
