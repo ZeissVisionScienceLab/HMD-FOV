@@ -36,11 +36,5 @@ kramdown:
   use_coderay: false
   # input: GFM
 
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: false
 
-collections:
-  docs:
-    output: true
+
