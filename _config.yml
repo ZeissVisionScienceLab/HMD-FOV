@@ -37,8 +37,7 @@ kramdown:
   # input: GFM
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: zvsl
-
+color_scheme: ./_sasss/color_schemes/zvsl.scss
 
 # Footer content
 # appears at the bottom of every page's main content

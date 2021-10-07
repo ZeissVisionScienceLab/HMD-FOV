@@ -3,18 +3,18 @@ layout: default
 title: Home
 nav_order: 1
 nav_exclude: false
-description: "."
+description: "Page under construction."
 permalink: /
 ---
 # [Welcome](https://zeissvisionsciencelab.github.io/HMD-FOV/)
 Lorem ipsum
 
 
-1. >[Methods](methods)
+<!-- 1. >[Methods](methods)
 2. >[Comparison with official specifications](comparisonwOffSpecs)
 3. >[Comparison with Kinetic Perimetry](comparisonwKinetPerimtry)
 4. >[Luminance Values](luminancevalues)
-5. >[Downloads](downloads)
+5. >[Downloads](downloads) -->
 
 
 <style type="text/css">
