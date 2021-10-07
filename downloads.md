@@ -6,7 +6,7 @@ nav_exclude: false
 ---
 
 ## Downloads
-
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <model-viewer src="eyeReliefTool.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-18.22deg 88.79deg auto">
 
     <div class="progress-bar hide" slot="progress-bar">
