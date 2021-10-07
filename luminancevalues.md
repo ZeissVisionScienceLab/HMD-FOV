@@ -3,7 +3,7 @@
 ### Table
 Results of "Value" in HSV Color space for the different stimulus luminance in the Goldmann. "o.o.r." stands for out of range.
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -27,13 +27,13 @@ Results of "Value" in HSV Color space for the different stimulus luminance in th
   <tr>
     <th class="tg-5frq">(2)</th>
     <th class="tg-5frq">(3)</th>
-    <th class="tg-5frq" colspan="2">(cd m-2)</th>
+    <th class="tg-5frq" colspan="2">(cd m-²)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">Goldmann<br>(Luminance)</td>
-    <td class="tg-baqh" colspan="2">10 cd m-2<br>31.5 asb</td>
+    <td class="tg-baqh" colspan="2">10 cd m-²<br>31.5 asb</td>
     <td class="tg-baqh">32</td>
     <td class="tg-baqh">100</td>
     <td class="tg-baqh">-</td>
@@ -88,7 +88,18 @@ Results of "Value" in HSV Color space for the different stimulus luminance in th
     <td class="tg-c3ow">0.1</td>
   </tr>
 </tbody>
-</table>
+</table> -->
+
+| HMD / Values            |       Background      |   | Stimulus |        | Max      | Min |
+|-------------------------|:---------------------:|---|:--------:|:------:|----------|-----|
+|                         |                       |   |    (2)   |   (3)  | (cd m-²) |     |
+| Goldmann<br>(Luminance) | 10 cd m-²<br>31.5 asb |   |    32    |   100  |     -    |  -  |
+| HTC Vive                |          28.8         |   |   46.5   |  76.81 |   178.7  | 0.0 |
+| HTC Vive Pro            |          33.8         |   |   55.6   |  93.4  |   116.1  | 0.0 |
+| Star VR One             |          42.6         |   |   70.08  | o.o.r. |   68.4   | 0.0 |
+| Oculus Rift DK2         |          39.9         |   |   71.9   | o.o.r. |   62.4   | 0.0 |
+| Pico Neo 2              |          43.5         |   |   74.0   | o.o.r. |   60.5   | 0.1 |
+| Fove 0                  |          29.1         |   |   55.3   | o.o.r. |   97.2   | 0.1 |
 
 ![Luminance values Figure](https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/figures/luminancefig.svg?raw=true)
 
