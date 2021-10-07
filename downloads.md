@@ -6,14 +6,22 @@ nav_exclude: false
 ---
 
 ## Downloads
+<!-- Import the component -->
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<!-- Use it like any other HTML element -->
+<model-viewer src="shared-assets/models/Astronaut.glb" alt="A 3D model of an astronaut" ar ar-modes="webxr scene-viewer quick-look" environment-image="neutral" auto-rotate camera-controls></model-viewer>
+
+
+
+<!-- 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <model-viewer src="eyeReliefTool.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-18.22deg 88.79deg auto">
 
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
-
-
+-->
 
 
 ### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
