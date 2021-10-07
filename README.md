@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Home
 nav_order: 1
 nav_exclude: false
 ---
