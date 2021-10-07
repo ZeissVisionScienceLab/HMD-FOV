@@ -14,8 +14,8 @@ pygments: false
 markdown: kramdown
 # logo: /figures/cam_procedure.png
 # show_downloads: true
-#remote_theme: fongandrew/hydeout
-theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
+#theme: jekyll-theme-minimal
 
 # Setup
 permalink:  /:title.html
