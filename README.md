@@ -7,8 +7,15 @@ description: "Page under construction."
 permalink: /
 ---
 # [Welcome](https://zeissvisionsciencelab.github.io/HMD-FOV/)
-Lorem ipsum
+{: .fs-9 }
 
+Page under construction. {: .fs-6 .fw-300 }
+## Cite as:
+```
+Sauer....
+```
+[Get the paper](http://example.com/){: .btn .btn-blue }
+[About us](About){: .btn }
 
 <!-- 1. >[Methods](methods)
 2. >[Comparison with official specifications](comparisonwOffSpecs)
@@ -134,11 +141,6 @@ Lorem ipsum
 ### Motivation:  
 Lorem ipsum
   
-
-## Cite as:
-```
-Sauer....
-```
 
 ## Missing a headset? 
 You can contact us at @
