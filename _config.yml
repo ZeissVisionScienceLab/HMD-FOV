@@ -37,7 +37,7 @@ kramdown:
   # input: GFM
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: light
+color_scheme: zvsl
 
 
 # Footer content
