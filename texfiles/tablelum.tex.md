@@ -1,4 +1,4 @@
-\begin{table}[!ht]
+$\begin{table}[!ht]
     \caption{Results of "Value" in HSV Color space for the different stimulus luminance in the Goldmann. "o.o.r." stands for out of range. }\label{tab:lum}
     %\resizebox{\columnwidth}{!}{
     \begin{tabular}{@{}p{.237\columnwidth}|
@@ -23,4 +23,4 @@
     Fove 0          &   29.1    &   55.3    &   o.o.r.  &   97.2 &   0.1\\ \bottomrule
     \end{tabular}%}
     \end{table}
-    
+    $
