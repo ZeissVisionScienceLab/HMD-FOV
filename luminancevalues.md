@@ -1,3 +1,10 @@
+---
+layout: default
+title: Luminance values
+nav_order: 5
+nav_exclude: false
+---
+
 ## Luminance measurements
 
 ### Table

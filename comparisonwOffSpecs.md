@@ -1,3 +1,9 @@
+---
+layout: default
+title: Comparison with official specifications
+nav_order: 3
+nav_exclude: false
+---
 ## Comparison with official specifications
 
 ## FoV Table

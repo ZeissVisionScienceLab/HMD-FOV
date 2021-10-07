@@ -1,3 +1,10 @@
+---
+layout: default
+title: Downloads
+nav_order: 6
+nav_exclude: false
+---
+
 ## Downloads
 
 
