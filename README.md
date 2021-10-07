@@ -9,7 +9,7 @@ Lorem ipsum
 5. >[Downloads](downloads)
 
 
-<!-- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
   border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
@@ -111,10 +111,10 @@ Lorem ipsum
     <td class="tg-buh4">95%</td>
   </tr>
 </tbody>
-</table> -->
+</table> 
   
 
-| HMD             | Monocular (°) | Monocular (°) |       | Binocular (°) |           | Solid Angle (\omega) |        | Binocular |
+<!-- | HMD             | Monocular (°) | Monocular (°) |       | Binocular (°) |           | Solid Angle (\omega) |        | Binocular |
 |-----------------|:-------------:|:-------------:|:-----:|:-------------:|:---------:|:--------------------:|:------:|:---------:|
 |                 |    Vertical   |    Temporal   | Nasal |   Horizontal  |  Maximum  |          (°²)        | (rad²) |  Overlap  |
 | Star VR One     |       92      |       91      |   38  |      182      |  182 @ 0° |         9854         |  3.00  |    37%    |
@@ -122,7 +122,7 @@ Lorem ipsum
 | HTC Vive        |       95      |       48      |   42  |       96      |  96 @ 0°  |         6322         |  1.93  |    88%    |
 | Pico Neo 2      |       88      |       42      |   43  |       86      |  88 @ 71° |         5572         |  1.70  |    96%    |
 | Oculus Rift DK2 |      101      |       46      |   47  |       94      | 102 @ 42° |         7192         |  2.19  |    98%    |
-| Fove 0          |       92      |       43      |   43  |       86      |  93 @ 60° |         6034         |  1.84  |    95%    |
+| Fove 0          |       92      |       43      |   43  |       86      |  93 @ 60° |         6034         |  1.84  |    95%    | -->
 ### Motivation:  
 Lorem ipsum
   
