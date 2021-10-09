@@ -4,18 +4,17 @@ title: Luminance values
 nav_order: 5
 nav_exclude: false
 ---
-
 ## Luminance measurements
-<p style="margin-bottom:3cm;">
+
+
 <img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/luminancefig.svg?raw=true" alt="Luminance values Figure" width="300" align="left"/>
 
 The measurements were taken using the luminance meter Minolta...
  >
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-</p>
+
 
 ## Luminance Table
-<p>
 <div id="tableTex">
   <div class="scroll-wrapper">  
     <table>
@@ -95,6 +94,6 @@ The measurements were taken using the luminance meter Minolta...
     </table>
   </div>
 </div>
-</p>
+
 
 ### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
