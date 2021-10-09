@@ -230,7 +230,7 @@
     border-collapse: collapse;
     border-spacing: 0;
     width: auto;
-    max-width: 100%;
+    max-width: 80%;
     border-top: 2.27px solid black;
     border-bottom: 2.27px solid black;
     /* display: block; */
@@ -257,8 +257,8 @@
 
     th,
     td {
-    text-align: left;
-    padding: 0.5rem;
+    text-align: center;
+    padding: 0.25rem;
     line-height: 1.1;
     }
     /* Table caption */

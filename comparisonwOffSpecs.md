@@ -8,7 +8,7 @@ nav_exclude: false
 
 ## FoV Table
 
-<div id="tableTex2">
+<div id="tableTex">
   <div class="scroll-wrapper">  
     <table>
         <thead>
