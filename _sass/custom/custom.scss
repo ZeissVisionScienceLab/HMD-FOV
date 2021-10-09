@@ -2,4 +2,22 @@
     .theme-latex {
         @import "https://github.com/vincentdoerig/latex-css";
     }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: auto;
+        width: 50%;
+        max-width: 50%;
+        border-top: 2.27px solid black;
+        border-bottom: 2.27px solid black;
+        /* display: block; */
+        overflow-x: auto; /* does not work because element is not block */
+        /* white-space: nowrap; */
+        counter-increment: caption;
+    }
+    td {
+        text-align: center;
+        padding: 0.25rem;
+        line-height: 1.1;
+    }   
 }
