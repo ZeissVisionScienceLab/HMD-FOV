@@ -6,11 +6,13 @@ nav_exclude: false
 ---
 
 ## Luminance measurements
-<img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/luminancefig.svg?raw=true" alt="Luminance values Figure" width="300" ALIGN=”left” HSPACE=”50” VSPACE=”50”/>
+<img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/luminancefig.svg?raw=true" alt="Luminance values Figure" width="300" align="left"/>
 
-The measurements were taken using the luminance meter Monolta...
+The measurements were taken using the luminance meter Minolta...
 
-### Luminance Table
+
+
+## Luminance Table
 
 <div id="tableTex">
   <div class="scroll-wrapper">  
