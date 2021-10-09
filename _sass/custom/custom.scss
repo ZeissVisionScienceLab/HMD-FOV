@@ -1,7 +1,5 @@
 #tableTex {
     .theme-latex {
-        @import "https://github.com/vincentdoerig/latex-css";
-    }
     table {
         border-collapse: collapse;
         border-spacing: 0;
@@ -20,4 +18,6 @@
         padding: 0.25rem;
         line-height: 1.1;
     }   
+    @import "https://github.com/vincentdoerig/latex-css";
+    }
 }
