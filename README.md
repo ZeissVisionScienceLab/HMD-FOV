@@ -19,7 +19,7 @@ Sauer....
 [About us](About){: .btn }
 
 ## Table:
-
+<div class="tg-wrap">
 <div id="tableTex">
   <div class="scroll-wrapper">  
     <table>
@@ -114,6 +114,7 @@ Sauer....
     </tbody>
     </table> 
   </div>
+</div>
 </div>
 
 ### Motivation:  
