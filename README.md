@@ -18,117 +18,103 @@ Sauer....
 [Get the paper](http://example.com/){: .btn .btn-blue }
 [About us](About){: .btn }
 
-<!-- 1. >[Methods](methods)
-2. >[Comparison with official specifications](comparisonwOffSpecs)
-3. >[Comparison with Kinetic Perimetry](comparisonwKinetPerimtry)
-4. >[Luminance Values](luminancevalues)
-5. >[Downloads](downloads) -->
+## Cite as:
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:12px;overflow:hidden;padding:8px 2px;
-  word-break:normal;}
-.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:12px;font-weight:normal;overflow:hidden;
-  padding:8px 2px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">HMD</th>
-    <th class="tg-baqh" colspan="3">Monocular (°)</th>
-    <th class="tg-0lax" colspan="2">Binocular (°)</th>
-    <th class="tg-0lax" colspan="2">Solid Angle (\omega)</th>
-    <th class="tg-0lax">Binocular</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-buh4"></td>
-    <td class="tg-buh4">Vertical</td>
-    <td class="tg-buh4">Temporal</td>
-    <td class="tg-buh4">Nasal</td>
-    <td class="tg-buh4">Horizontal</td>
-    <td class="tg-buh4">Maximum</td>
-    <td class="tg-dzk6"> (°²)</td>
-    <td class="tg-buh4">(rad²)</td>
-    <td class="tg-buh4">Overlap</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Star VR One</td>
-    <td class="tg-baqh">92</td>
-    <td class="tg-0lax">91</td>
-    <td class="tg-baqh">38</td>
-    <td class="tg-baqh">182</td>
-    <td class="tg-baqh">182 @ 0°</td>
-    <td class="tg-baqh">9854</td>
-    <td class="tg-0lax">3.00</td>
-    <td class="tg-0lax">37%</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">HTC Vive Pro</td>
-    <td class="tg-dzk6">91</td>
-    <td class="tg-buh4">47</td>
-    <td class="tg-dzk6">40</td>
-    <td class="tg-dzk6">94</td>
-    <td class="tg-dzk6">94 @ 0°</td>
-    <td class="tg-dzk6">5937</td>
-    <td class="tg-buh4">1.81</td>
-    <td class="tg-buh4">84%</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HTC Vive</td>
-    <td class="tg-baqh">95</td>
-    <td class="tg-0lax">48</td>
-    <td class="tg-baqh">42</td>
-    <td class="tg-baqh">96</td>
-    <td class="tg-baqh">96 @ 0°</td>
-    <td class="tg-baqh">6322</td>
-    <td class="tg-0lax">1.93</td>
-    <td class="tg-0lax">88%</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">Pico Neo 2</td>
-    <td class="tg-dzk6">88</td>
-    <td class="tg-buh4">42</td>
-    <td class="tg-dzk6">43</td>
-    <td class="tg-dzk6">86</td>
-    <td class="tg-dzk6">88 @ 71°</td>
-    <td class="tg-dzk6">5572</td>
-    <td class="tg-buh4">1.70</td>
-    <td class="tg-buh4">96%</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Oculus Rift DK2</td>
-    <td class="tg-baqh">101</td>
-    <td class="tg-0lax">46</td>
-    <td class="tg-baqh">47</td>
-    <td class="tg-baqh">94</td>
-    <td class="tg-baqh">102 @ 42°</td>
-    <td class="tg-baqh">7192</td>
-    <td class="tg-0lax">2.19</td>
-    <td class="tg-0lax">98%</td>
-  </tr>
-  <tr>
-    <td class="tg-buh4">Fove 0</td>
-    <td class="tg-dzk6">92</td>
-    <td class="tg-buh4">43</td>
-    <td class="tg-dzk6">43</td>
-    <td class="tg-dzk6">86</td>
-    <td class="tg-dzk6">93 @ 60°</td>
-    <td class="tg-dzk6">6034</td>
-    <td class="tg-buh4">1.84</td>
-    <td class="tg-buh4">95%</td>
-  </tr>
-</tbody>
-</table> 
-  
+<div id="tableTex">
+  <div class="scroll-wrapper">  
+    <table>
+    <caption> Values of HMDs as measured in the article.</caption>
+      <thead>
+        <tr>
+          <th>HMD</th>
+          <th colspan="3">Monocular (°)</th>
+          <th colspan="2">Binocular (°)</th>
+          <th colspan="2">Solid Angle (\omega)</th>
+          <th>Binocular</th>
+        </tr>
+      </thead>
+    <tbody> 
+      <tr>
+        <td ></td>
+        <td >Vertical</td>
+        <td >Temporal</td>
+        <td >Nasal</td>
+        <td >Horizontal</td>
+        <td >Maximum</td>
+        <td > (°²)</td>
+        <td >(rad²)</td>
+        <td >Overlap</td>
+      </tr>
+      <tr>
+        <td >Star VR One</td>
+        <td >92</td>
+        <td >91</td>
+        <td >38</td>
+        <td >182</td>
+        <td >182 @ 0°</td>
+        <td >9854</td>
+        <td >3.00</td>
+        <td >37%</td>
+      </tr>
+      <tr>
+        <td >HTC Vive Pro</td>
+        <td >91</td>
+        <td >47</td>
+        <td >40</td>
+        <td >94</td>
+        <td >94 @ 0°</td>
+        <td >5937</td>
+        <td >1.81</td>
+        <td >84%</td>
+      </tr>
+      <tr>
+        <td >HTC Vive</td>
+        <td >95</td>
+        <td >48</td>
+        <td >42</td>
+        <td >96</td>
+        <td >96 @ 0°</td>
+        <td >6322</td>
+        <td >1.93</td>
+        <td >88%</td>
+      </tr>
+      <tr>
+        <td >Pico Neo 2</td>
+        <td >88</td>
+        <td >42</td>
+        <td >43</td>
+        <td >86</td>
+        <td >88 @ 71°</td>
+        <td >5572</td>
+        <td >1.70</td>
+        <td >96%</td>
+      </tr>
+      <tr>
+        <td >Oculus Rift DK2</td>
+        <td >101</td>
+        <td >46</td>
+        <td >47</td>
+        <td >94</td>
+        <td >102 @ 42°</td>
+        <td >7192</td>
+        <td >2.19</td>
+        <td >98%</td>
+      </tr>
+      <tr>
+        <td >Fove 0</td>
+        <td >92</td>
+        <td >43</td>
+        <td >43</td>
+        <td >86</td>
+        <td >93 @ 60°</td>
+        <td >6034</td>
+        <td >1.84</td>
+        <td >95%</td>
+      </tr>
+    </tbody>
+    </table> 
+  </div>
+</div>
 
 <!-- | HMD             | Monocular (°) | Monocular (°) |       | Binocular (°) |           | Solid Angle (\omega) |        | Binocular |
 |-----------------|:-------------:|:-------------:|:-----:|:-------------:|:---------:|:--------------------:|:------:|:---------:|
