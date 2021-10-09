@@ -19,8 +19,9 @@ Sauer....
 [About us](About){: .btn }
 
 ## Table:
-<div class="tg-wrap">
+
 <div id="tableTex">
+<div class="tg-wrap">
   <div class="scroll-wrapper">  
     <table>
     <caption> Values of HMDs as measured in the article.</caption>

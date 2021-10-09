@@ -17,7 +17,6 @@ HMD | Bino. FoV | Official Specifications | Rendered
 *Oculus Rift DK2* |94 x 101°|100°|93 x 106° 
 *Fove 0* |86 x 92°|Up to 100°|88 x 95°
 
-<div class="tg-wrap">
 <div id="tableTex">
   <div class="scroll-wrapper">  
 <table>
@@ -70,7 +69,7 @@ HMD | Bino. FoV | Official Specifications | Rendered
 </table>
  </div>
 </div>
-</div>
+
 
 
 ### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
