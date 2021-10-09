@@ -22,7 +22,7 @@ Sauer....
 
 <div id="tableTex">
   <div class="scroll-wrapper">  
-    <table>
+    <table style="width: 100%">
     <caption> Values of HMDs as measured in the article.</caption>
       <thead>
         <tr>
