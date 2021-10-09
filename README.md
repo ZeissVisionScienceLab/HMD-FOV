@@ -18,7 +18,7 @@ Sauer....
 [Get the paper](http://example.com/){: .btn .btn-blue }
 [About us](About){: .btn }
 
-## Cite as:
+## Table:
 
 <div id="tableTex">
   <div class="scroll-wrapper">  
@@ -116,15 +116,6 @@ Sauer....
   </div>
 </div>
 
-<!-- | HMD             | Monocular (°) | Monocular (°) |       | Binocular (°) |           | Solid Angle (\omega) |        | Binocular |
-|-----------------|:-------------:|:-------------:|:-----:|:-------------:|:---------:|:--------------------:|:------:|:---------:|
-|                 |    Vertical   |    Temporal   | Nasal |   Horizontal  |  Maximum  |          (°²)        | (rad²) |  Overlap  |
-| Star VR One     |       92      |       91      |   38  |      182      |  182 @ 0° |         9854         |  3.00  |    37%    |
-| HTC Vive Pro    |       91      |       47      |   40  |       94      |  94 @ 0°  |         5937         |  1.81  |    84%    |
-| HTC Vive        |       95      |       48      |   42  |       96      |  96 @ 0°  |         6322         |  1.93  |    88%    |
-| Pico Neo 2      |       88      |       42      |   43  |       86      |  88 @ 71° |         5572         |  1.70  |    96%    |
-| Oculus Rift DK2 |      101      |       46      |   47  |       94      | 102 @ 42° |         7192         |  2.19  |    98%    |
-| Fove 0          |       92      |       43      |   43  |       86      |  93 @ 60° |         6034         |  1.84  |    95%    | -->
 ### Motivation:  
 Lorem ipsum
   
