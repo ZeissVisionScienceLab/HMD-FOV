@@ -1,5 +1,6 @@
 name: HMD FoV
 title: HMD FoV
+logo: /assets/images/logo.png
 #tagline:          ''
 description: 'Database for FOV measurements of different HMDs and description of measurement techniques.'
 #url: 
