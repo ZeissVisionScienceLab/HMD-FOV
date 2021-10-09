@@ -11,7 +11,7 @@ nav_exclude: false
 
 The measurements were taken using the luminance meter Minolta...
  >
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 </p>
 
 ## Luminance Table
