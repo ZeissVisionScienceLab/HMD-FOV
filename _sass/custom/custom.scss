@@ -229,11 +229,11 @@
     table {
     border-collapse: collapse;
     border-spacing: 0;
+    table-layout: fixed;
     width: auto;
     max-width: 80%;
     border-top: 2.27px solid black;
     border-bottom: 2.27px solid black;
-    table-layout: fixed;
     /* display: block; */
     overflow-x: auto; /* does not work because element is not block */
     /* white-space: nowrap; */
@@ -259,8 +259,9 @@
     th,
     td {
     text-align: center;
-    padding: 0.25rem;
+    padding: 0.05rem;
     line-height: 1.1;
+    width: 100px;
     }
     /* Table caption */
     caption {
