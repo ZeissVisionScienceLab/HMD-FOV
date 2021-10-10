@@ -229,7 +229,6 @@
     table {
     border-collapse: collapse;
     border-spacing: 0;
-    table-layout: fixed;
     width: auto;
     max-width: 80%;
     border-top: 2.27px solid black;
@@ -242,6 +241,7 @@
     /* add bottom border on column table headings  */
     table tr > th[scope='col'] {
     border-bottom: 1.36px solid black;
+    width: fit-content;
     }
     /* add right border on row table headings  */
     table tr > th[scope='row'] {
@@ -255,13 +255,17 @@
     table > tbody > tr:last-child > th {
     border-bottom: 1.36px solid black;
     }
+     /* left align first column */
+    table > tbody > td:first-child > tr,
+    table > tbody > td:first-child > th {
+    text-align: left;
+    }
 
     th,
     td {
     text-align: center;
-    padding: 0.05rem;
+    padding: 0.25rem;
     line-height: 1.1;
-    width: 100px;
     }
     /* Table caption */
     caption {
