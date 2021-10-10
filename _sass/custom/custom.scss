@@ -233,6 +233,7 @@
     max-width: 80%;
     border-top: 2.27px solid black;
     border-bottom: 2.27px solid black;
+    table-layout: fixed;
     /* display: block; */
     overflow-x: auto; /* does not work because element is not block */
     /* white-space: nowrap; */

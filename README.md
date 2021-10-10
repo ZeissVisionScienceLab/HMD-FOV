@@ -21,7 +21,7 @@ Sauer....
 ## Table:
 
 <div id="tableTex">
-  <div class="scroll-wrapper">  
+  <!-- <div class="scroll-wrapper">   -->
     <table>
     <caption> Values of HMDs as measured in the article.</caption>
       <thead>
@@ -113,7 +113,7 @@ Sauer....
       </tr>
     </tbody>
     </table> 
-  </div>
+  <!-- </div> -->
 </div>
 
 ### Motivation:  
