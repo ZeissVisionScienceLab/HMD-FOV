@@ -611,4 +611,13 @@ $media-queries: (
     .main{
         margin-left: calc( (100% - 100%) / 2 + 20% );
     }
+    .search-input-wrap {
+        position: absolute;
+        width: 100%;
+        max-width: 70%;
+        height: 100% !important;
+        border-radius: 0;
+        box-shadow: none;
+        transition: width ease 400ms;
+    }
 }

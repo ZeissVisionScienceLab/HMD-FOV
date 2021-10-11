@@ -14,9 +14,9 @@ To provide a better replicability across studies using different headsets, the l
 ### Methodology
 The virtual environment's skybox in Unity was fixed at Hue and Saturation, while Value was increased from 0 to 100 (in steps of 10). At each step, three luminance measurements were taken using the luminance meter (Konica Minolta LS-110, Konica Minolta, Inc., Tokyo, Japan) with the close-up lens in a dark room.
 
+<br><br><br>
 ## Luminance Table
 <div id="tableTex">
-  <div class="scroll-wrapper">  
     <table>
     <caption> Results of "Value" in HSV Color space for the different stimulus luminance in the Goldmann. "o.o.r." stands for out of range. </caption>
     <thead>
@@ -92,7 +92,6 @@ The virtual environment's skybox in Unity was fixed at Hue and Saturation, while
     </tr>
     </tbody>
     </table>
-  </div>
 </div>
 
 
