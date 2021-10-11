@@ -9,16 +9,41 @@ $btn-primary-color: $indigo-zvsl;
 
 // $gutter-spacing: $sp-4;
 // $gutter-spacing-sm: $sp-6;
-// $nav-width: 30%;
-// $nav-width-md: 20%;
+$nav-width: 30%;
+$nav-width-md: 20%;
 // $nav-list-expander-right: true;
 $content-width: 70%;
+
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: 800px,
+  lg: 1064px,
+  xl: 1400px,
+);
+
 @media screen and (min-width: 66.5rem){
     .side-bar{
-        width: calc((100% - 1064px) / 2 + 264px);
-        min-width: 264px;
+        width: calc((100% - 100%) / 2 + 20%);
+        min-width: 20%;
     }
     .site-nav, .site-header, .site-footer {
-        width: 264px;
+        width: 85%;
     }
 }
+// @media screen and (min-width: 66.5rem){
+//     .side-bar{
+//         width: calc((100% - 1064px) / 2 + 264px);
+//         min-width: 264px;
+//     }
+//     .site-nav, .site-header, .site-footer {
+//         width: 264px;
+//     }
+// }
+// $media-queries: (
+//   xs: 320px,
+//   sm: 500px,
+//   md: $content-width,
+//   lg: $content-width + $nav-width,
+//   xl: 1400px,
+// )

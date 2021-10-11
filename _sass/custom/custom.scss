@@ -585,9 +585,3 @@
         @import url("https://github.com/vincentdoerig/latex-css");
     }
 }
-// Print-only styles.
-@media print {
-  .side-bar, .page-header { display: none; }
-  .main-content { max-width: auto; margin: 1em;}
-}
-
