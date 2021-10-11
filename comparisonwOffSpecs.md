@@ -1,12 +1,15 @@
 ---
 layout: default
 title: Comparison with official specifications
-nav_order: 3
+nav_order: 4
 nav_exclude: false
 ---
-## Comparison with official specifications
-
+# Comparison with official specifications
+{: .fs-9 }
+Page under construction. 
+{: .fs-6 .fw-300 }
 ## FoV Table
+The following table shows a comparison between the values reported by the manufacturer and the ones we obtained. For comparison we also include the rendered values as reported by <a href="https://risa2000.github.io/hmdgdb/"> Richard Musil's database</a>.
 
 <div id="tableTex">
   <div class="scroll-wrapper">  
@@ -16,7 +19,7 @@ nav_exclude: false
                 <th>HMD</th>
                 <th>Bino. FoV</th>
                 <th>Official Specifications</th>
-                <th>Rendered</th>
+                <th>Rendered (<a href="https://risa2000.github.io/hmdgdb/">Musil database</a>)</th>
             </tr>
         </thead>
         <tbody>

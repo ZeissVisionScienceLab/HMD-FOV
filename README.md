@@ -18,7 +18,11 @@ Sauer....
 [Get the paper](http://example.com/){: .btn .btn-blue }
 [About us](About){: .btn }
 
-## Table:
+## Motivation:  
+Lorem ipsum
+  
+## Data Table:
+The following table contains the values of the different headsets field of view at their typical eye relief distance.
 
 <div id="tableTex">
   <div class="scroll-wrapper"> 
@@ -115,10 +119,6 @@ Sauer....
     </table> 
     </div>
 </div>
-
-### Motivation:  
-Lorem ipsum
-  
 
 ## Missing a headset? 
 You can contact us at @
