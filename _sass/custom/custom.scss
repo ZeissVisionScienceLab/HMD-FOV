@@ -237,6 +237,7 @@
     overflow-x: auto; /* does not work because element is not block */
     /* white-space: nowrap; */
     counter-increment: caption;
+    font-family: 'Latin Modern';
     }
     /* add bottom border on column table headings  */
     table tr > th[scope='col'] {
