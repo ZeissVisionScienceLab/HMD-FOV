@@ -15,10 +15,10 @@ $btn-primary-color: $indigo-zvsl;
 $content-width: 70%;
 @media screen and (min-width: 66.5rem){
     .side-bar{
-        width: calc((100% - 100%)/2 + 20%);
-        min-width: 20%;
+        width: calc((100% - 1064px) / 2 + 264px);
+        min-width: 264px;
     }
     .site-nav, .site-header, .site-footer {
-        width: 85%;
+        width: 264px;
     }
 }
