@@ -621,3 +621,11 @@ $media-queries: (
         transition: width ease 400ms;
     }
 }
+@media (min-width: 50rem){
+    .side-bar{
+        width: 20%;
+    }
+    .main{
+        margin-left: calc( (100% - 100%) / 2 + 20% );
+    }
+}
