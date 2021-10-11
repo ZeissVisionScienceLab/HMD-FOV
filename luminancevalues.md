@@ -6,7 +6,7 @@ nav_exclude: false
 ---
 ## Luminance measurements
 
-<img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/luminancefig.svg?raw=true" alt="Luminance values Figure" width="300" align="left"/>
+<img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/luminancefig.svg?raw=true" alt="Luminance values Figure" width="400" align="left"/>
 In some psychophysical experiments, the stimulus's luminance and contrast have to be carefully controlled. However, this is not usually the case in virtual reality, where each headset has different display panels (even different display panel technologies).
 
 To provide a better replicability across studies using different headsets, the luminance at different values that each headset is capable of produce are measured.
@@ -16,9 +16,11 @@ The virtual environment's skybox in Unity was fixed at Hue and Saturation, while
 
 <br><br><br>
 ## Luminance Table
+
 <div id="tableTex">
     <table>
-    <caption> Results of "Value" in HSV Color space for the different stimulus luminance in the Goldmann. "o.o.r." stands for out of range. </caption>
+    <caption> Results of "Value" in HSV Color space for the different stimulus luminance in the Goldmann. "o.o.r." stands for out of range.
+    </caption>
     <thead>
       <tr>
         <th  rowspan="2">HMD / Values</th>

@@ -610,11 +610,17 @@ $media-queries: (
     }
     .main{
         margin-left: calc( (100% - 100%) / 2 + 18% );
-        max-width: 75%;
+        max-width: 70%;
     }
     .search-input-wrap {
         width: 100%;
-        max-width: 70%;
+        max-width: 90%;
+    }
+    .search-results{
+        width: 90%;
+    }
+    .search{
+        width: 90% !important;
     }
 }
 @media (min-width: 50rem){
@@ -623,6 +629,6 @@ $media-queries: (
     }
     .main{
         margin-left: calc( (100% - 100%) / 2 + 18% );
-        max-width: 75%;
+        max-width: 70%;
     }
 }

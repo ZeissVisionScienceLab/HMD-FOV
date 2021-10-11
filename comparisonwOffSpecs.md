@@ -11,8 +11,7 @@ Page under construction.
 ## FoV Table
 The following table shows a comparison between the values reported by the manufacturer and the ones we obtained. For comparison we also include the rendered values as reported by <a href="https://risa2000.github.io/hmdgdb/"> Richard Musil's database</a>.
 
-<div id="tableTex">
-  <div class="scroll-wrapper">  
+<div id="tableTex"> 
     <table>
         <thead>
             <tr>
@@ -61,7 +60,6 @@ The following table shows a comparison between the values reported by the manufa
             </tr>
         </tbody>
         </table>
-    </div>
 </div>
 
 
