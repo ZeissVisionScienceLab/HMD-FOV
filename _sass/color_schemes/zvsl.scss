@@ -7,9 +7,18 @@ $link-color: $indigo-zvsl;
 $btn-primary-color: $indigo-zvsl;
 
 
-$gutter-spacing: $sp-1;
-$gutter-spacing-sm: $sp-2;
-$nav-width: 30%;
-$nav-width-md: 20%;
-$nav-list-expander-right: true;
-$content-width: 70%;
+// $gutter-spacing: $sp-4;
+// $gutter-spacing-sm: $sp-6;
+// $nav-width: 30%;
+// $nav-width-md: 20%;
+// $nav-list-expander-right: true;
+ $content-width: 70%;
+@media screen and (min-width: 66.5rem){
+    .side-bar{
+        width: calc((100% - 100%)/2 + 20%);
+        min-width: 20%;
+    }
+    .site-nav, .site-header, .site-footer {
+        width: 85%;
+    }
+}
