@@ -585,3 +585,30 @@
         @import url("https://github.com/vincentdoerig/latex-css");
     }
 }
+// $gutter-spacing: $sp-4;
+// $gutter-spacing-sm: $sp-6;
+$nav-width: 20%;
+$nav-width-md: 85%;
+// $nav-list-expander-right: true;
+$content-width: 60%;
+
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: 800px,
+  lg: 1064px,
+  xl: 1400px,
+);
+
+@media (min-width: 66.5rem){
+    .side-bar{
+        width: calc((100% - 100%) / 2 + 20%);
+        min-width: 20%;
+    }
+    .site-nav, .site-header, .site-footer {
+        width: 85%;
+    }
+    .main{
+        margin-left: calc( (100% - 100%) / 2 + 20% );
+    }
+}
