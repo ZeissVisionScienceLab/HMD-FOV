@@ -124,5 +124,5 @@ The following table contains the values of the different headsets' fields of vie
 </div>
 
 ## Missing a headset? 
-You can contact us at [yannick.sauer@uni-tuebingen.de](mailto:yannick.sauer@uni-tuebingen.de) or [@YannickSauer](@YannickSauer).
+You can contact us at [yannick.sauer@uni-tuebingen.de](mailto:yannick.sauer@uni-tuebingen.de) or @YannickSauer in Github.
 
