@@ -13,7 +13,10 @@ Page under construction. Some links and some text might be missing.
 {: .fs-6 .fw-300 } -->
 ## Cite as:
 ```
-Sauer, Y., Sipatchin, A., Wahl, S. et al. Assessment of consumer VR-headsets' objective and subjective field of view (FoV) and its feasibility for visual field testing. Virtual Reality (2022). https://doi.org/10.1007/s10055-021-00619-x
+Sauer, Y., Sipatchin, A., Wahl, S. et al. 
+Assessment of consumer VR-headsets' objective and subjective field of view (FoV) 
+and its feasibility for visual field testing. Virtual Reality (2022).
+https://doi.org/10.1007/s10055-021-00619-x
 ```
 [Get the paper](https://rdcu.be/cE7D2){: .btn .btn-blue }
 [About us](About){: .btn }
