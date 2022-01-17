@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Comparison with human field of view limits
+title: Comparison with humans' field of view limits
 nav_order: 5
 nav_exclude: false
 ---
-# Comparison with human field of view limits
+# Comparison with humans' field of view limits
 {: .fs-9 }
 Page under construction. 
 {: .fs-6 .fw-300 }

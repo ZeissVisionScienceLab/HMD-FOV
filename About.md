@@ -7,7 +7,7 @@ description: ""
 ---
 
 # Contributors
-Contributions to the study are as disclaimed in the article.
+Contributions to the study are, as disclaimed in the article.
 Webpage:
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}

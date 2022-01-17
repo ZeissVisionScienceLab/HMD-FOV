@@ -8,18 +8,19 @@ permalink: /
 ---
 # [Welcome](https://zeissvisionsciencelab.github.io/HMD-FOV/)
 
-{: .fs-9 }
-Page under construction. 
-{: .fs-6 .fw-300 }
+<!-- {: .fs-9 }
+Page under construction. Some links and some text might be missing.
+{: .fs-6 .fw-300 } -->
 ## Cite as:
 ```
-Sauer, Y., Sipatchin, A., Wahl, S. et al. Assessment of consumer VR-headsets’ objective and subjective field of view (FoV) and its feasibility for visual field testing. Virtual Reality (2022). https://doi.org/10.1007/s10055-021-00619-x
+Sauer, Y., Sipatchin, A., Wahl, S. et al. Assessment of consumer VR-headsets' objective and subjective field of view (FoV) and its feasibility for visual field testing. Virtual Reality (2022). https://doi.org/10.1007/s10055-021-00619-x
 ```
 [Get the paper](https://rdcu.be/cE7D2){: .btn .btn-blue }
 [About us](About){: .btn }
 
 ## Motivation:  
-The idea behind this project is to offer a simple, reliable, and easy-to-use method to measure the field of view (FOV) offered by virtual reality headsets.
+The idea behind this project is to offer a simple, reliable, and easy-to-use method to measure the field of view (FOV) yield by virtual reality headsets.
+
 ## Data Table:
 The following table contains the values of the different headsets' fields of view at their typical eye relief distance.
 
@@ -120,5 +121,5 @@ The following table contains the values of the different headsets' fields of vie
 </div>
 
 ## Missing a headset? 
-You can contact us at @
+You can contact us at [yannick.sauer@uni-tuebingen.de](mailto:yannick.sauer@uni-tuebingen.de) or [@YannickSauer](@YannickSauer).
 
