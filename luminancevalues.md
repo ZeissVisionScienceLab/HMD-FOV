@@ -10,10 +10,10 @@ nav_exclude: false
 <img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/luminancefig.svg?raw=true" alt="Luminance values Figure" width="400" align="left"/>
 In some psychophysical experiments, the stimulus's luminance and contrast have to be carefully controlled. However, this is not usually the case in virtual reality, where each headset has different display panels (even different display panel technologies).
 
-To provide a better replicability across studies using different headsets, the luminance at different values that each headset is capable of produce are measured.
+To provide a better replicability across studies using different headsets, the luminance at different values that each headset is capable of producing is measured.
 
 ### Methodology
-The virtual environment's skybox in Unity was fixed at Hue and Saturation, while Value was increased from 0 to 100 (in steps of 10). At each step, three luminance measurements were taken using the luminance meter (Konica Minolta LS-110, Konica Minolta, Inc., Tokyo, Japan) with the close-up lens in a dark room.
+The virtual environment's skybox in Unity was fixed at Hue and Saturation, while "Value" was increased from 0 to 100 (in steps of 10). At each step, three luminance measurements were taken using the luminance-meter (Konica Minolta LS-110, Konica Minolta, Inc., Tokyo, Japan) with the close-up lens in a dark room.
 
 <br><br><br><br><br>
 ## Luminance Table

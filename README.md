@@ -13,16 +13,15 @@ Page under construction.
 {: .fs-6 .fw-300 }
 ## Cite as:
 ```
-Sauer....
+Sauer, Y., Sipatchin, A., Wahl, S. et al. Assessment of consumer VR-headsets’ objective and subjective field of view (FoV) and its feasibility for visual field testing. Virtual Reality (2022). https://doi.org/10.1007/s10055-021-00619-x
 ```
-[Get the paper](http://example.com/){: .btn .btn-blue }
+[Get the paper](https://rdcu.be/cE7D2){: .btn .btn-blue }
 [About us](About){: .btn }
 
 ## Motivation:  
-Lorem ipsum
-  
+The idea behind this project is to offer a simple, reliable, and easy-to-use method to measure the field of view (FOV) offered by virtual reality headsets.
 ## Data Table:
-The following table contains the values of the different headsets field of view at their typical eye relief distance.
+The following table contains the values of the different headsets' fields of view at their typical eye relief distance.
 
 <div id="tableTex">
   <div class="scroll-wrapper"> 
