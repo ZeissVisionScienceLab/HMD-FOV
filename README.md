@@ -24,6 +24,12 @@ https://doi.org/10.1007/s10055-021-00619-x
 ## Motivation:  
 The idea behind this project is to offer a simple, reliable, and easy-to-use method to measure the field of view (FOV) yield by virtual reality headsets.
 
+## What is the field of view (FOV)?
+The field of view (FOV) is the area covered by the visual field of a human eye, it is defined in degrees of visual angle.
+## Why is it important?
+The field of view is important for the quality of the visual experience of a virtual reality headset. Small field of views restrict the available content at glance and can worsen the user experience. Small FoVs can also change our perception. Furthermore, vision science and psychophysical experiments rely on accurate stimulus size and positioning, which can not be achieve without an accurate measurement of the field of view.
+## What can I expect on this webpage? 
+In this webpage we included the data from our article and a quick overview of what was measeured. We intend to mantain it and update it with further headsets measured. However, this webpage does not intent to provide a detailed analysis of the data, nor to explain how the measurements were taken. For a detailed explanation of the methods used, please refer to the [article](https://rdcu.be/cE7D2).
 ## Data Table:
 The following table contains the values of the different headsets' fields of view at their typical eye relief distance.
 
