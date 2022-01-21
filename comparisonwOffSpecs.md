@@ -8,6 +8,10 @@ nav_exclude: false
 ## FoV Table
 The following table shows a comparison between the values reported by the manufacturer and the ones we obtained. For comparison we also include the rendered values as reported by <a href="https://risa2000.github.io/hmdgdb/"> Richard Musil's database</a>.
 
+As it can be observed, manufacturers' claims are usually not met. The HMD's FoV is smaller than what they report.  
+
+We recommend that in the future, manufacturers provide a more accurate FoV report. Including the average eye relief distance and how the FOV was measured.
+
 <div id="tableTex"> 
     <table>
         <thead>
