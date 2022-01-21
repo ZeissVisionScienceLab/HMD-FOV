@@ -26,6 +26,7 @@ The idea behind this project is to offer a simple, reliable, and easy-to-use met
 
 ## What is the field of view (FOV)?
 The field of view (FOV) is the area covered by the visual field of a human eye, it is defined in degrees of visual angle.
+
 ## Why is it important?
 The field of view is important for the quality of the visual experience of a virtual reality headset. Small field of views restrict the available content at glance and can worsen the user experience. Small FoVs can also change our perception. Furthermore, vision science and psychophysical experiments rely on accurate stimulus size and positioning, which can not be achieve without an accurate measurement of the field of view.
 ## What can I expect on this webpage? 

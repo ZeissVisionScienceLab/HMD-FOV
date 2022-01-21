@@ -5,9 +5,6 @@ nav_order: 4
 nav_exclude: false
 ---
 # Comparison with official specifications
-{: .fs-9 }
-Page under construction. 
-{: .fs-6 .fw-300 }
 ## FoV Table
 The following table shows a comparison between the values reported by the manufacturer and the ones we obtained. For comparison we also include the rendered values as reported by <a href="https://risa2000.github.io/hmdgdb/"> Richard Musil's database</a>.
 
