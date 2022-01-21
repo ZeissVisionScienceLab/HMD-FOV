@@ -10,6 +10,6 @@ We performed a classical perimetry test to measure the eye's natural visual fiel
 
 The stimulus (IV2e) had a size of 0.8° of visual angle and a luminance of 32 cd m^-2. The background was set at 10 candelas per sqare meter. 
 
-<img src="https://github.com/ZeissVisionScienceLab/HMD-FOV/blob/main/figures/octopus_perimetry_comparison.svg?raw=true" alt="Comparison with human field of view." width="800"/>
+<img src="https://github.com/ZeissVisionScienceLab/HMD-FOV//blob/main/assets/images/octopus_perimetry_comparison.svg?raw=true" alt="Comparison with human field of view." width="800"/>
 
 ### > [Back to main page](https://zeissvisionsciencelab.github.io/HMD-FOV/)
